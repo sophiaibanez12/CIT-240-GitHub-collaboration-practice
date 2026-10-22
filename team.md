@@ -5,10 +5,10 @@
 \## Members
 
 * Student A: SOPHIA IBANEZ - sophiaibanez12 - homepage
-* Student B: LYKA LILIA - lilialyka15 - team profile
-* Student C: ELAH MARIE GALLAZA - gallazaelahmarie-cyber - setup notes
-* Student D: ANGELO GARRUCHO - angelogarrucho7-collab - workflow guide
-* Student E: ALVIN BERINIO - alvinnberinio-cmyk - testing
+* Student B: ALVIN BERINIO - alvinnberinio-cmyk - team profile
+* Student C: LYKA LIlIA - lilialyka15 - setup notes
+* Student D: ELAH MARIE GALLAZA - gallazaelahmarie-cyber - workflow guide
+* Student E: ANGELO GARRUCHO - angelogarrucho7-collab - testing
 
 
 
